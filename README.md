@@ -34,9 +34,9 @@ java -jar socksgenerator-fat-1.0-SNAPSHOT.jar <path/to/config>
   * Required  
 * `socks_port` - Socks port, example `1029`.  
   * Required  
-* `keys_path` - Key storage file path, example `storage/keys.txt`  
+* `keys_path` - Key storage file path, example `storage/keys.txt`.  
   * Required  
-* `users_path` - Users storage file path, example `storage/users.txt`  
+* `users_path` - Users storage file path, example `storage/users.txt`.  
   * Required  
 * `script_path` - Auth script file path, example `./create_user.sh`.  
   * Required  
